@@ -10,7 +10,7 @@
       "level": "Junior",
       "contract": "Full-Time",
       "position": " BackendDeveloper",
-      "language": "Java"
+      "language": "java"
       },
       {
       "id": 2,
@@ -22,7 +22,7 @@
       "level": "Junior",
       "contract": "Full Time",
       "position": "Junior Frontend Developer",
-      "language": "Java"
+      "language": "java"
       },
       {
       "company": "masaischool",
@@ -33,18 +33,7 @@
       "position": "Backend Developer",
       "contract": "Part Time",
       "postedAt": "2022-12-17",
-      "id": 3
-      },
-      {
-      "company": "masaischool",
-      "city": "new delhi",
-      "role": "Backend",
-      "location": "delhi",
-      "level": "Junior",
-      "position": "Backend Developer",
-      "contract": "Part Time",
-      "postedAt": "2022-12-17",
-      "language": "Javascript",
+      "language": "javascript",
       "id": 4
       },
       {
@@ -56,7 +45,7 @@
       "position": "Backend Developer",
       "contract": "Part Time",
       "postedAt": "2022-12-17",
-      "language": "Java",
+      "language": "java",
       "id": 5
       },
       {
@@ -68,7 +57,7 @@
       "position": "Backend Developer",
       "contract": "Part Time",
       "postedAt": "2022-12-17",
-      "language": "TypeScript",
+      "language": "typescript",
       "id": 6
       },
       {
@@ -80,7 +69,7 @@
       "position": "Backend Developer",
       "contract": "Part Time",
       "postedAt": "2022-12-17",
-      "language": "C++",
+      "language": "c++",
       "id": 7
       },
       {
