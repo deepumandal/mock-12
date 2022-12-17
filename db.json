@@ -1,0 +1,61 @@
+{
+    "moviedata" : [
+      
+        {
+          "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+          "book_name": "1sdffdaf",
+          "author": "dfkjahadsfadsfdfaf",
+          "genre": "history",
+          "edition": "2021",
+          "publisher": "dfkja",
+          "cost": "kjdf",
+          "borrowed": false,
+          "id": 1
+          },
+          {
+          "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+          "book_name": "1sdffdaf",
+          "author": "dfkjahadsfadsfdfaf",
+          "genre": "history",
+          "edition": "2021",
+          "publisher": "dfkja",
+          "cost": "kjdf",
+          "borrowed": false,
+          "id": 2
+          },
+          {
+          "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+          "book_name": "1sdffdaf",
+          "author": "dfkjahadsfadsfdfaf",
+          "genre": "history",
+          "edition": "2021",
+          "publisher": "dfkja",
+          "cost": "kjdf",
+          "borrowed": false,
+          "id": 3
+          },
+          {
+          "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+          "book_name": "1sdffdaf",
+          "author": "dfkjahadsfadsfdfaf",
+          "genre": "history",
+          "edition": "2021",
+          "publisher": "dfkja",
+          "cost": "kjdf",
+          "borrowed": false,
+          "id": 4
+          },
+          {
+          "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+          "book_name": "1sdffdaf",
+          "author": "dfkjahadsfadsfdfaf",
+          "genre": "history",
+          "edition": "2021",
+          "publisher": "dfkja",
+          "cost": "kjdf",
+          "borrowed": false,
+          "id": 5
+          }
+     
+    ]
+  }
