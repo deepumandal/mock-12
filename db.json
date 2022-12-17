@@ -119,18 +119,6 @@
       "contract": "full-time",
       "postedAt": "2022-12-17",
       "id": 11
-      },
-      {
-      "company": "meri",
-      "city": "hari",
-      "location": "gujh",
-      "role": "backend",
-      "level": "junior",
-      "position": "backend-developer",
-      "language": "typescript",
-      "contract": "full-time",
-      "postedAt": "2022-12-17",
-      "id": 11
       }
   ]
 }
