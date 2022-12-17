@@ -2,17 +2,17 @@
   "jobsoffer": [
     {
       "id": 1,
-      "company": "Ellette",
+      "company": "ellette",
       "postedAt": "2021-03-30",
-      "city": "Gangtok",
-      "location": "American Samoa",
+      "city": "gangtok",
+      "location": "American",
       "role": "Frontend",
       "level": "Junior",
-      "contract": "Full Time",
-      "position": " Backend Developer",
+      "contract": "Full-Time",
+      "position": " BackendDeveloper",
       "language": "Java"
-    },
-    {
+      },
+      {
       "id": 2,
       "company": "Jinny",
       "postedAt": "2021-09-09",
@@ -23,6 +23,113 @@
       "contract": "Full Time",
       "position": "Junior Frontend Developer",
       "language": "Java"
-    }
+      },
+      {
+      "company": "masaischool",
+      "city": "new delhi",
+      "role": "Backend",
+      "location": "delhi",
+      "level": "Junior",
+      "position": "Backend Developer",
+      "contract": "Part Time",
+      "postedAt": "2022-12-17",
+      "id": 3
+      },
+      {
+      "company": "masaischool",
+      "city": "new delhi",
+      "role": "Backend",
+      "location": "delhi",
+      "level": "Junior",
+      "position": "Backend Developer",
+      "contract": "Part Time",
+      "postedAt": "2022-12-17",
+      "language": "Javascript",
+      "id": 4
+      },
+      {
+      "company": "masaischool",
+      "city": "new delhi",
+      "role": "Backend",
+      "location": "delhi",
+      "level": "Junior",
+      "position": "Backend Developer",
+      "contract": "Part Time",
+      "postedAt": "2022-12-17",
+      "language": "Java",
+      "id": 5
+      },
+      {
+      "company": "masaischool",
+      "city": "new delhi",
+      "role": "Backend",
+      "location": "delhi",
+      "level": "Junior",
+      "position": "Backend Developer",
+      "contract": "Part Time",
+      "postedAt": "2022-12-17",
+      "language": "TypeScript",
+      "id": 6
+      },
+      {
+      "company": "masaischool",
+      "city": "new delhi",
+      "role": "Backend",
+      "location": "delhi",
+      "level": "Junior",
+      "position": "Backend Developer",
+      "contract": "Part Time",
+      "postedAt": "2022-12-17",
+      "language": "C++",
+      "id": 7
+      },
+      {
+      "company": "mericompany",
+      "city": "hariyana",
+      "location": "gujrat",
+      "role": "frontend",
+      "level": "senior",
+      "position": "junior frontend developer",
+      "language": "typescript",
+      "contract": "part time",
+      "postedAt": "2022-12-17",
+      "id": 8
+      },
+      {
+      "company": "mericompany",
+      "city": "hariyana",
+      "location": "gujrat",
+      "role": "frontend",
+      "level": "senior",
+      "position": "junior frontend developer",
+      "language": "typescript",
+      "contract": "part time",
+      "postedAt": "2022-12-17",
+      "id": 9
+      },
+      {
+      "company": "meri",
+      "city": "hari",
+      "location": "gujh",
+      "role": "backend",
+      "level": "junior",
+      "position": "backend-developer",
+      "language": "typescript",
+      "contract": "full-time",
+      "postedAt": "2022-12-17",
+      "id": 10
+      },
+      {
+      "company": "meri",
+      "city": "hari",
+      "location": "gujh",
+      "role": "backend",
+      "level": "junior",
+      "position": "backend-developer",
+      "language": "typescript",
+      "contract": "full-time",
+      "postedAt": "2022-12-17",
+      "id": 11
+      }
   ]
 }
